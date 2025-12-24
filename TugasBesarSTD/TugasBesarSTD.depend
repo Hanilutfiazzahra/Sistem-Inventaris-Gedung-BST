@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1766504008 source:c:\users\hani\documents\struktur data\tugasbesarstd\main.cpp
+	<iostream>
+	"Tree.h"
+
+1766503608 c:\users\hani\documents\struktur data\tugasbesarstd\tree.h
+	<iostream>
+
+1766503564 source:c:\users\hani\documents\struktur data\tugasbesarstd\tree.cpp
+	"Tree.h"
+	<iostream>
+
